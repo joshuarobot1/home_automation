@@ -35,10 +35,10 @@ GPIO.setup(drink, GPIO.IN)
 #client.connect("192.168.1.123")
 
 # tweepy authorization
-consumer_key = 'RU4wdre6gS7KteE58MUmshSZE'
-consumer_secret = 'eIYzWkGsa1I6rXawmQ0JSWJ8KBFkZXIUZLEZfsEHibBUXNFBqz'
-access_token = '3002829234-N24mCitCGgjnb2KrZ8SNbiL2vuxfzjREAL3vkfy'
-access_token_secret = 'Lg3yoAiZirJdLhoPNsxZkZ0Jds7puffk2qbpuOVl3zXbg'
+consumer_key = # removed for privacy
+consumer_secret = # removed for privacy
+access_token = # removed for privacy
+access_token_secret = # removed for privacy
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
